@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danielle Nix
+- 👋 Hi, my name is Danielle!
 - 👀 I’m interested in product and project management!
 - 🌱 I’m currently in school as a fourth year in Software Systems at SFU
 - 💞️ I’m looking to find internship opportunities to help grow my skills
