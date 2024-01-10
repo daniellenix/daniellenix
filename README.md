@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Danielle!
 - 👀 I’m interested in product and project management!
-- 🌱 I’m currently in school as a fourth year in Software Systems at SFU
-- 💞️ I’m looking to find internship opportunities to help grow my skills
+- 🌱 I will be graduating in Spring 2024 from Software Systems at SFU
+- 💞️ I’m looking to find full-time opportunities
 - 📫 Please feel free to contact me through my email at dnix@sfu.ca
 
 <!---
